@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 1,
+    "group_id": "G1",
+    "name" : "Booking a place",
+    "description" : ""
+  },
+  {
+    "id": 2,
+    "group_id": "G2",
+    "name" : "Getting information",
+    "description" : ""
+  },
+  {
+    "id": 3,
+    "group_id": "G3",
+    "name" : "Other",
+    "description" : ""
+  }
+]
