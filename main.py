@@ -4,8 +4,8 @@ import openai
 import numpy as np
 import re
 import sys
+from key import key
 # %%
-key = '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'
 openai.api_key = key
 
 text = sys.argv[1]
